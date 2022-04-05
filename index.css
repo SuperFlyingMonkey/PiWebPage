@@ -1,0 +1,138 @@
+body{
+background-color: #191970;
+}
+td{
+width:75px;
+}
+
+tr{
+width: 90%;
+}
+h4{
+color:#696969;
+padding-bottom:5px;
+margin:auto;
+align-text:center;
+}
+
+h1{
+padding-left:5px;
+width:300px;
+margin:inherit;
+}
+h2{
+margin:left;
+width:50%;
+color:green;
+
+}
+.roster{
+border: 2.5px outset black;
+background-color:#ffffff;
+text-align: center;
+}
+
+.pageTitle{
+background-color:#191970; 
+border: 2.5px outset black;
+text-align:left;
+width:55%;
+}
+
+table{ 
+
+color:#ffd700;
+width:80%;
+}
+
+.Standings{
+border:2.5px outset black;
+background-color: #ffffff;
+margin-right:3px;
+text-align: center;
+}
+
+.Schedule{
+border:2.5px outset black;
+background-color: #ffffff;
+text-align: center;
+}
+
+tbody{
+width:90%;
+background-color:#ffd700;
+padding-right:10px;
+}
+
+.topBarDiv{
+
+}
+
+.tableDiv{
+
+height:5%;
+margin:auto;
+
+}
+
+.imageSpace{
+width:8.9%;
+height:140px;
+float:left;
+background-color:#111750;
+border: 1px outset black;
+}
+
+header{
+background-color:#ffd700;
+height:50px;
+}
+
+.sideBar{
+background-color:#111750;
+width:10%;
+height:90%;
+border: 1px outset black;
+}
+
+.calender{
+background-color:#ffffff;
+width:135px;
+height:125px;
+margin:auto;
+
+}
+
+.mainBody{
+width:89%;
+height:90%;
+float: right;
+padding-right:11%;
+}
+
+.contain{
+
+width:88%;
+height:90%;
+background-color:#111750;
+float:right;
+}
+
+.Sbox{
+width:90%;
+padding-left:5px;
+align-text:center:
+}
+
+.search{
+width:150px;
+height:25px;
+background-color:white;
+border:1.5px outset black;
+}
+
+.spacer{
+background-color:red;
+width:5%;
+height:90%
+}
