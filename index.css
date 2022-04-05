@@ -64,10 +64,6 @@ background-color:#ffd700;
 padding-right:10px;
 }
 
-.topBarDiv{
-
-}
-
 .tableDiv{
 
 height:5%;
@@ -127,12 +123,14 @@ align-text:center;
 .search{
 width:150px;
 height:25px;
-background-color:white;
-border:1.5px outset black;
 }
 
 .spacer{
 background-color:red;
 width:5%;
 height:90%
+}
+button{
+width: 75px;
+
 }
